@@ -1,7 +1,6 @@
 # Forum - Swoft 官方论坛
 
-Forum of the swoft. Swoft 官方论坛
-
+Swoft Official Forum. Swoft 官方论坛
 
 为了方便大家在提问交流时沉淀一些记录。官方也没有过多的人力、精力去维护一个自建论坛，因此使用Github的Issues作为一个轻量级的论坛。
 
