@@ -6,10 +6,10 @@ labels: ''
 assignees: ''
 
 ---
-| Q                   | A
+
+**env information**
+| Name                | Value
 | ------------------- | -----
-| Bug report?         | yes/no
-| Feature request?    | yes/no
 | Swoft version       | x.y.z
 | Swoole version      | x.y.z (by `php --ri swoole`)
 | PHP version         | x.y.z (by `php -v`)
